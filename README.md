@@ -1,4 +1,4 @@
-#App de Finanças Pessoais da Brenda (Meu Money) com Vibe Coding:
+##App de Finanças Pessoais da Brenda (Meu Money) com Vibe Coding:
 
 ## PRD Refinado no Copilot Web
 
