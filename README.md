@@ -94,8 +94,7 @@ O aplicativo busca simplificar o controle financeiro por meio de interações em
 
 **Problemas identificados:**  
 > O aplicativo não está funcional. Preciso que tenha uma parte para cadastrar o usuário, com login e senha, para que cada usuário tenha uma experiência personalizada no app. O nome do app é Meu Money, e o agente financeiro não está funcionando corretamente: não está sendo responsivo e também não está registrando gastos nem criando metas automaticamente, de acordo com a conversa com o usuário.
-
-Preciso que isso seja ajustado. Também não está sendo possível criar metas manualmente. Lembrando que o app também precisa ter um design universal, acessível para todos que o utilizarem.
+>Preciso que isso seja ajustado. Também não está sendo possível criar metas manualmente. Lembrando que o app também precisa ter um design universal, acessível para todos que o utilizarem.
 
 **Resultado final no Lovable:**  
 https://meumoneyfinance.lovable.app
