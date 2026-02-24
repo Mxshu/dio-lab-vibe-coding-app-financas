@@ -161,5 +161,8 @@ Esperava ter mais interações gratuitas com o Lovable, porém acabaram não sen
 **O que aprendeu sobre conversar com IAs?**
 Que é preciso ser assertivo, ter uma noção completa dos seus objetivos e descrevê-los o mais detalhadamente possível e de forma objetiva.
 
-# Esse foi o meu projeto criado para o Bootcamp CAIXA - Inteligência Artificial na Prática, fornecido pela empresa DIO.  
+---
+
+# Qual a finalidade desse projeto?
+Esse foi o meu projeto criado para o Bootcamp CAIXA - Inteligência Artificial na Prática, fornecido pela empresa DIO.  
 Segui as instruções do desafio e criei este protótipo de um app de finanças para validação da ideia.
